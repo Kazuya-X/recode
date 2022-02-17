@@ -3,6 +3,9 @@
 salam dari orang bodoh 
 =====================
 
+[===]:::::::::>
+================
+
 
 
 langkah awal
@@ -20,7 +23,7 @@ pkg install requests
 
 pkg install python
 
-git clone https://github.com/Mr-Sadx/recode
+git clone https://github.com/4RD1-X-64N22/recode
 
 cd recode
 
