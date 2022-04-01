@@ -22,7 +22,7 @@ pkg install requests
 
 pkg install python
 
-git clone https://github.com/4RD1-X-64N22/recode
+git clone https://github.com/Kazuya-X /recode
 
 cd recode
 
